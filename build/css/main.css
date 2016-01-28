@@ -911,47 +911,47 @@ text[data-color-index="0"] {
   background-color: #fcb525;
 }
 [data-color-index="1"] path {
-  stroke: #d60;
+  stroke: #333e48;
 }
 [data-color-index="1"] rect {
-  fill: #d60;
+  fill: #333e48;
 }
 [data-color-index="1"] circle {
-  stroke: #d60;
+  stroke: #333e48;
   stroke-width: 2px;
-  fill: #d60;
+  fill: #333e48;
 }
 .color-index-1 {
-  fill: #d60;
+  fill: #333e48;
 }
 rect[data-color-index="1"] {
-  fill: #d60;
+  fill: #333e48;
 }
 text[data-color-index="1"] {
-  fill: #d60;
+  fill: #333e48;
 }
 .d4 .axis .tick text[data-color-index="1"] {
-  fill: #d60;
+  fill: #333e48;
 }
 .cb-colorpicker-color-1 {
-  background-color: #d60;
+  background-color: #333e48;
 }
 .series-label-1 {
-  color: #d60;
+  color: #333e48;
 }
 .series-label-input-1 {
-  border-bottom: 2px solid #d60;
+  border-bottom: 2px solid #333e48;
 }
 .series-label-input-1:hover,
 .series-label-input-1:focus {
   border: none;
-  border-bottom: 2px solid #d60;
+  border-bottom: 2px solid #333e48;
 }
 .series-label-input-1 input {
-  color: #d60;
+  color: #333e48;
 }
 .cb-toggle.toggled.toggle-1 .cb-toggle-container {
-  background-color: #d60;
+  background-color: #333e48;
 }
 [data-color-index="2"] path {
   stroke: #9c2f33;
@@ -997,347 +997,304 @@ text[data-color-index="2"] {
   background-color: #9c2f33;
 }
 [data-color-index="3"] path {
-  stroke: #333e48;
+  stroke: #5c6670;
 }
 [data-color-index="3"] rect {
-  fill: #333e48;
+  fill: #5c6670;
 }
 [data-color-index="3"] circle {
-  stroke: #333e48;
+  stroke: #5c6670;
   stroke-width: 2px;
-  fill: #333e48;
+  fill: #5c6670;
 }
 .color-index-3 {
-  fill: #333e48;
+  fill: #5c6670;
 }
 rect[data-color-index="3"] {
-  fill: #333e48;
+  fill: #5c6670;
 }
 text[data-color-index="3"] {
-  fill: #333e48;
+  fill: #5c6670;
 }
 .d4 .axis .tick text[data-color-index="3"] {
-  fill: #333e48;
+  fill: #5c6670;
 }
 .cb-colorpicker-color-3 {
-  background-color: #333e48;
+  background-color: #5c6670;
 }
 .series-label-3 {
-  color: #333e48;
+  color: #5c6670;
 }
 .series-label-input-3 {
-  border-bottom: 2px solid #333e48;
+  border-bottom: 2px solid #5c6670;
 }
 .series-label-input-3:hover,
 .series-label-input-3:focus {
   border: none;
-  border-bottom: 2px solid #333e48;
+  border-bottom: 2px solid #5c6670;
 }
 .series-label-input-3 input {
-  color: #333e48;
-}
-.cb-toggle.toggled.toggle-3 .cb-toggle-container {
-  background-color: #333e48;
-}
-[data-color-index="4"] path {
-  stroke: #5c6670;
-}
-[data-color-index="4"] rect {
-  fill: #5c6670;
-}
-[data-color-index="4"] circle {
-  stroke: #5c6670;
-  stroke-width: 2px;
-  fill: #5c6670;
-}
-.color-index-4 {
-  fill: #5c6670;
-}
-rect[data-color-index="4"] {
-  fill: #5c6670;
-}
-text[data-color-index="4"] {
-  fill: #5c6670;
-}
-.d4 .axis .tick text[data-color-index="4"] {
-  fill: #5c6670;
-}
-.cb-colorpicker-color-4 {
-  background-color: #5c6670;
-}
-.series-label-4 {
   color: #5c6670;
 }
+.cb-toggle.toggled.toggle-3 .cb-toggle-container {
+  background-color: #5c6670;
+}
+[data-color-index="4"] path {
+  stroke: #d4dce6;
+}
+[data-color-index="4"] rect {
+  fill: #d4dce6;
+}
+[data-color-index="4"] circle {
+  stroke: #d4dce6;
+  stroke-width: 2px;
+  fill: #d4dce6;
+}
+.color-index-4 {
+  fill: #d4dce6;
+}
+rect[data-color-index="4"] {
+  fill: #d4dce6;
+}
+text[data-color-index="4"] {
+  fill: #d4dce6;
+}
+.d4 .axis .tick text[data-color-index="4"] {
+  fill: #d4dce6;
+}
+.cb-colorpicker-color-4 {
+  background-color: #d4dce6;
+}
+.series-label-4 {
+  color: #d4dce6;
+}
 .series-label-input-4 {
-  border-bottom: 2px solid #5c6670;
+  border-bottom: 2px solid #d4dce6;
 }
 .series-label-input-4:hover,
 .series-label-input-4:focus {
   border: none;
-  border-bottom: 2px solid #5c6670;
+  border-bottom: 2px solid #d4dce6;
 }
 .series-label-input-4 input {
-  color: #5c6670;
-}
-.cb-toggle.toggled.toggle-4 .cb-toggle-container {
-  background-color: #5c6670;
-}
-[data-color-index="5"] path {
-  stroke: #d4dce6;
-}
-[data-color-index="5"] rect {
-  fill: #d4dce6;
-}
-[data-color-index="5"] circle {
-  stroke: #d4dce6;
-  stroke-width: 2px;
-  fill: #d4dce6;
-}
-.color-index-5 {
-  fill: #d4dce6;
-}
-rect[data-color-index="5"] {
-  fill: #d4dce6;
-}
-text[data-color-index="5"] {
-  fill: #d4dce6;
-}
-.d4 .axis .tick text[data-color-index="5"] {
-  fill: #d4dce6;
-}
-.cb-colorpicker-color-5 {
-  background-color: #d4dce6;
-}
-.series-label-5 {
   color: #d4dce6;
 }
+.cb-toggle.toggled.toggle-4 .cb-toggle-container {
+  background-color: #d4dce6;
+}
+[data-color-index="5"] path {
+  stroke: #4575b4;
+}
+[data-color-index="5"] rect {
+  fill: #4575b4;
+}
+[data-color-index="5"] circle {
+  stroke: #4575b4;
+  stroke-width: 2px;
+  fill: #4575b4;
+}
+.color-index-5 {
+  fill: #4575b4;
+}
+rect[data-color-index="5"] {
+  fill: #4575b4;
+}
+text[data-color-index="5"] {
+  fill: #4575b4;
+}
+.d4 .axis .tick text[data-color-index="5"] {
+  fill: #4575b4;
+}
+.cb-colorpicker-color-5 {
+  background-color: #4575b4;
+}
+.series-label-5 {
+  color: #4575b4;
+}
 .series-label-input-5 {
-  border-bottom: 2px solid #d4dce6;
+  border-bottom: 2px solid #4575b4;
 }
 .series-label-input-5:hover,
 .series-label-input-5:focus {
   border: none;
-  border-bottom: 2px solid #d4dce6;
+  border-bottom: 2px solid #4575b4;
 }
 .series-label-input-5 input {
-  color: #d4dce6;
-}
-.cb-toggle.toggled.toggle-5 .cb-toggle-container {
-  background-color: #d4dce6;
-}
-[data-color-index="6"] path {
-  stroke: #4575b4;
-}
-[data-color-index="6"] rect {
-  fill: #4575b4;
-}
-[data-color-index="6"] circle {
-  stroke: #4575b4;
-  stroke-width: 2px;
-  fill: #4575b4;
-}
-.color-index-6 {
-  fill: #4575b4;
-}
-rect[data-color-index="6"] {
-  fill: #4575b4;
-}
-text[data-color-index="6"] {
-  fill: #4575b4;
-}
-.d4 .axis .tick text[data-color-index="6"] {
-  fill: #4575b4;
-}
-.cb-colorpicker-color-6 {
-  background-color: #4575b4;
-}
-.series-label-6 {
   color: #4575b4;
 }
+.cb-toggle.toggled.toggle-5 .cb-toggle-container {
+  background-color: #4575b4;
+}
+[data-color-index="6"] path {
+  stroke: #313695;
+}
+[data-color-index="6"] rect {
+  fill: #313695;
+}
+[data-color-index="6"] circle {
+  stroke: #313695;
+  stroke-width: 2px;
+  fill: #313695;
+}
+.color-index-6 {
+  fill: #313695;
+}
+rect[data-color-index="6"] {
+  fill: #313695;
+}
+text[data-color-index="6"] {
+  fill: #313695;
+}
+.d4 .axis .tick text[data-color-index="6"] {
+  fill: #313695;
+}
+.cb-colorpicker-color-6 {
+  background-color: #313695;
+}
+.series-label-6 {
+  color: #313695;
+}
 .series-label-input-6 {
-  border-bottom: 2px solid #4575b4;
+  border-bottom: 2px solid #313695;
 }
 .series-label-input-6:hover,
 .series-label-input-6:focus {
   border: none;
-  border-bottom: 2px solid #4575b4;
+  border-bottom: 2px solid #313695;
 }
 .series-label-input-6 input {
-  color: #4575b4;
-}
-.cb-toggle.toggled.toggle-6 .cb-toggle-container {
-  background-color: #4575b4;
-}
-[data-color-index="7"] path {
-  stroke: #313695;
-}
-[data-color-index="7"] rect {
-  fill: #313695;
-}
-[data-color-index="7"] circle {
-  stroke: #313695;
-  stroke-width: 2px;
-  fill: #313695;
-}
-.color-index-7 {
-  fill: #313695;
-}
-rect[data-color-index="7"] {
-  fill: #313695;
-}
-text[data-color-index="7"] {
-  fill: #313695;
-}
-.d4 .axis .tick text[data-color-index="7"] {
-  fill: #313695;
-}
-.cb-colorpicker-color-7 {
-  background-color: #313695;
-}
-.series-label-7 {
   color: #313695;
 }
+.cb-toggle.toggled.toggle-6 .cb-toggle-container {
+  background-color: #313695;
+}
+[data-color-index="7"] path {
+  stroke: #999;
+}
+[data-color-index="7"] rect {
+  fill: #999;
+}
+[data-color-index="7"] circle {
+  stroke: #999;
+  stroke-width: 2px;
+  fill: #999;
+}
+.color-index-7 {
+  fill: #999;
+}
+rect[data-color-index="7"] {
+  fill: #999;
+}
+text[data-color-index="7"] {
+  fill: #999;
+}
+.d4 .axis .tick text[data-color-index="7"] {
+  fill: #999;
+}
+.cb-colorpicker-color-7 {
+  background-color: #999;
+}
+.series-label-7 {
+  color: #999;
+}
 .series-label-input-7 {
-  border-bottom: 2px solid #313695;
+  border-bottom: 2px solid #999;
 }
 .series-label-input-7:hover,
 .series-label-input-7:focus {
   border: none;
-  border-bottom: 2px solid #313695;
+  border-bottom: 2px solid #999;
 }
 .series-label-input-7 input {
-  color: #313695;
-}
-.cb-toggle.toggled.toggle-7 .cb-toggle-container {
-  background-color: #313695;
-}
-[data-color-index="8"] path {
-  stroke: #999;
-}
-[data-color-index="8"] rect {
-  fill: #999;
-}
-[data-color-index="8"] circle {
-  stroke: #999;
-  stroke-width: 2px;
-  fill: #999;
-}
-.color-index-8 {
-  fill: #999;
-}
-rect[data-color-index="8"] {
-  fill: #999;
-}
-text[data-color-index="8"] {
-  fill: #999;
-}
-.d4 .axis .tick text[data-color-index="8"] {
-  fill: #999;
-}
-.cb-colorpicker-color-8 {
-  background-color: #999;
-}
-.series-label-8 {
   color: #999;
 }
+.cb-toggle.toggled.toggle-7 .cb-toggle-container {
+  background-color: #999;
+}
+[data-color-index="8"] path {
+  stroke: #666;
+}
+[data-color-index="8"] rect {
+  fill: #666;
+}
+[data-color-index="8"] circle {
+  stroke: #666;
+  stroke-width: 2px;
+  fill: #666;
+}
+.color-index-8 {
+  fill: #666;
+}
+rect[data-color-index="8"] {
+  fill: #666;
+}
+text[data-color-index="8"] {
+  fill: #666;
+}
+.d4 .axis .tick text[data-color-index="8"] {
+  fill: #666;
+}
+.cb-colorpicker-color-8 {
+  background-color: #666;
+}
+.series-label-8 {
+  color: #666;
+}
 .series-label-input-8 {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #666;
 }
 .series-label-input-8:hover,
 .series-label-input-8:focus {
   border: none;
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #666;
 }
 .series-label-input-8 input {
-  color: #999;
-}
-.cb-toggle.toggled.toggle-8 .cb-toggle-container {
-  background-color: #999;
-}
-[data-color-index="9"] path {
-  stroke: #666;
-}
-[data-color-index="9"] rect {
-  fill: #666;
-}
-[data-color-index="9"] circle {
-  stroke: #666;
-  stroke-width: 2px;
-  fill: #666;
-}
-.color-index-9 {
-  fill: #666;
-}
-rect[data-color-index="9"] {
-  fill: #666;
-}
-text[data-color-index="9"] {
-  fill: #666;
-}
-.d4 .axis .tick text[data-color-index="9"] {
-  fill: #666;
-}
-.cb-colorpicker-color-9 {
-  background-color: #666;
-}
-.series-label-9 {
   color: #666;
 }
+.cb-toggle.toggled.toggle-8 .cb-toggle-container {
+  background-color: #666;
+}
+[data-color-index="9"] path {
+  stroke: #ccc;
+}
+[data-color-index="9"] rect {
+  fill: #ccc;
+}
+[data-color-index="9"] circle {
+  stroke: #ccc;
+  stroke-width: 2px;
+  fill: #ccc;
+}
+.color-index-9 {
+  fill: #ccc;
+}
+rect[data-color-index="9"] {
+  fill: #ccc;
+}
+text[data-color-index="9"] {
+  fill: #ccc;
+}
+.d4 .axis .tick text[data-color-index="9"] {
+  fill: #ccc;
+}
+.cb-colorpicker-color-9 {
+  background-color: #ccc;
+}
+.series-label-9 {
+  color: #ccc;
+}
 .series-label-input-9 {
-  border-bottom: 2px solid #666;
+  border-bottom: 2px solid #ccc;
 }
 .series-label-input-9:hover,
 .series-label-input-9:focus {
   border: none;
-  border-bottom: 2px solid #666;
+  border-bottom: 2px solid #ccc;
 }
 .series-label-input-9 input {
-  color: #666;
+  color: #ccc;
 }
 .cb-toggle.toggled.toggle-9 .cb-toggle-container {
-  background-color: #666;
-}
-[data-color-index="10"] path {
-  stroke: #ccc;
-}
-[data-color-index="10"] rect {
-  fill: #ccc;
-}
-[data-color-index="10"] circle {
-  stroke: #ccc;
-  stroke-width: 2px;
-  fill: #ccc;
-}
-.color-index-10 {
-  fill: #ccc;
-}
-rect[data-color-index="10"] {
-  fill: #ccc;
-}
-text[data-color-index="10"] {
-  fill: #ccc;
-}
-.d4 .axis .tick text[data-color-index="10"] {
-  fill: #ccc;
-}
-.cb-colorpicker-color-10 {
-  background-color: #ccc;
-}
-.series-label-10 {
-  color: #ccc;
-}
-.series-label-input-10 {
-  border-bottom: 2px solid #ccc;
-}
-.series-label-input-10:hover,
-.series-label-input-10:focus {
-  border: none;
-  border-bottom: 2px solid #ccc;
-}
-.series-label-input-10 input {
-  color: #ccc;
-}
-.cb-toggle.toggled.toggle-10 .cb-toggle-container {
   background-color: #ccc;
 }
 @font-face {
@@ -1611,7 +1568,7 @@ svg.renderer-svg tspan {
   shape-rendering: crispEdges;
 }
 .d4 .axis .tick.zero line {
-  stroke: #333;
+  stroke: #5c6670;
 }
 .d4 .axis .tick rect {
   fill: #fff;
@@ -1643,7 +1600,7 @@ svg.renderer-svg tspan {
   stroke-width: 1px;
 }
 .d4 line.zero {
-  stroke: #333;
+  stroke: #5c6670;
   shape-rendering: crispEdges;
 }
 .d4 .margins .line path,

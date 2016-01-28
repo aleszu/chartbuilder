@@ -136,9 +136,9 @@ var ChartCreditImg = React.createClass({
 	render: function() {
 
 		var configCreditImg = {};
-			configCreditImg.logowidth = 25;
-			configCreditImg.logoheight = 25;
-			configCreditImg.logooffset = 15;
+			configCreditImg.logowidth = 110;
+			configCreditImg.logoheight = 55;
+			configCreditImg.logooffset = 55;
 			configCreditImg.url = './assets/logo.png';
 
 		var offsetLogoLeft = configCreditImg.logowidth + configCreditImg.logooffset,
